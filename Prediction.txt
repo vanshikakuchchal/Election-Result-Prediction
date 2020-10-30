@@ -1,0 +1,55 @@
+Text Blob
+
+Actual votes 106
+predicted votes 55
+wrong 57
+True positive  55
+True negative  135
+False positive  57
+False negative  51
+Recall 0.5188679245283019
+Precision 0.49107142857142855
+True Positive Rate 0.5188679245283019
+False Positive Rate 0.296875
+auc 0.613
+
+Vader
+
+True positive  60
+True negative  126
+False positive  66
+False negative  46
+Recall 0.5660377358490566
+Precision 0.47619047619047616
+True Positive Rate 0.5660377358490566
+False Positive Rate 0.34375
+actual votes 106
+predicted votes 60
+wrong 67
+auc 0.6117
+
+logistic regression
+
+True positive  70
+True negative  190
+False positive  4
+False negative  36
+Recall 0.660377358490566
+Precision 0.9459459459459459
+True Positive Rate 0.660377358490566
+False Positive Rate 0.020618556701030927
+actual votes 106
+predicted votes 70
+wrong 4
+auc 0.8199
+
+SVM
+True positive  92
+True negative  175
+False positive  19
+False negative  14
+Recall 0.8679245283018868
+Precision 0.8288288288288288
+True Positive Rate 0.8679245283018868
+False Positive Rate 0.0979381443298969
+auc 0.8850
